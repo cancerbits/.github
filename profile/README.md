@@ -3,7 +3,7 @@
 # Developmental Cancer Genomics 
 # @ St. Anna Children's Cancer Research Institute (CCRI)
 
-We are a team of computational biologists at St. Anna Children's Cancer Research Institute (CCRI). It is our goal to understand developmental processes in cancer biology by employing an integrative approach that combines developmental biology with functional genomics. For more information visit [our lab website](https://cancerbits.github.io/) or [our institutional homepage](https://ccri.at/research-group/florian-halbritter-group/].
+We are a team of computational biologists at St. Anna Children's Cancer Research Institute (CCRI). It is our goal to understand developmental processes in cancer biology by employing an integrative approach that combines developmental biology with functional genomics. For more information visit [our lab website](https://cancerbits.github.io/) or [our institutional homepage](https://ccri.at/research-group/florian-halbritter-group/).
 
 Lab links:
 * [homepage](https://cancerbits.github.io/)
